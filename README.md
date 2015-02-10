@@ -1,6 +1,9 @@
 Evolutionary Algorithms Rating System
 =====================================
 
+Read and Cite (Thx):
+* VEČEK, Niki, MERNIK, Marjan, ČREPINŠEK, Matej. A chess rating system for evolutionary algorithms : a new method for the comparison and ranking of evolutionary algorithms. Information sciences, ISSN 0020-0255. [Print ed.], Sep. 2014, vol. 277, str. 656-679
+
 EARS in action http://earatingsystem.appspot.com
 
 What is included:
